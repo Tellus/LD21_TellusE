@@ -1,0 +1,59 @@
+<alibis>
+	<alibi>
+		<story>We had told the others that we were going to @, trying to avoid suspicion.</story>
+		<question>Where were you the night of the crime?</question>
+		<answer>my mother's</answer>
+		<answer>work</answer>
+		<answer>the baseball game</answer>
+		<!-- answer>the scene</answer -->
+	</alibi>
+	<alibi>
+		<story>I didn't really know much about Stanley, although he did tell me that he @</story>
+		<question>Your friend told us that he !@. Is that true?</question>
+		<answer>lives in the North</answer>
+		<answer>has a dog named Yippie</answer>
+		<answer>spends most of his time at the diner</answer>
+	</alibi>
+	<alibi>
+		<story></story>
+		<question></question>
+		<answer></answer>
+		<answer></answer>
+		<answer></answer>
+	</alibi>
+	<alibi>
+		<story></story>
+		<question></question>
+		<answer></answer>
+		<answer></answer>
+		<answer></answer>
+	</alibi>
+	<alibi>
+		<story></story>
+		<question></question>
+		<answer></answer>
+		<answer></answer>
+		<answer></answer>
+	</alibi>
+	<alibi>
+		<story></story>
+		<question></question>
+		<answer></answer>
+		<answer></answer>
+		<answer></answer>
+	</alibi>
+	<alibi>
+		<story></story>
+		<question></question>
+		<answer></answer>
+		<answer></answer>
+		<answer></answer>
+	</alibi>
+	<alibi>
+		<story></story>
+		<question></question>
+		<answer></answer>
+		<answer></answer>
+		<answer></answer>
+	</alibi>
+</alibis>
